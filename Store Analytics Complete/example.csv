@@ -1,0 +1,22 @@
+ID,Patient ID number,,,,
+vsit,Date of visit,,,,
+trt ,Patient Treatment,,,,
+PCS,SF-36 Physical component summary,,,,
+MCS,SF-36 Mental component summary,,,,
+dr,Patient's doctor,,,,
+,,,,,
+ID,visit,trt,PCS,MCS,dr
+1,3/5/2008,Placebo,88,71,Dr. A
+1,9/7/2008,Placebo,67,68,Dr. A
+1,9/7/2008,Placebo,67,68,Dr. A
+2,6/19/2008,Drug,51,64,Dr. Y
+2,12/22/2008,Drug,86,56,Dr. Y
+3,4/11/2008,Placebo,85,59,Dr. K
+3,10/14/2008,Placebo,67,64,Dr. K
+4,10/21/2008,Drug,71,86,Dr. R
+4,4/25/2009,Drug,82,64,Dr. R
+5,7/30/2008,Drug,89,52,Dr. V
+5,2/1/2009,Drug,72,68,Dr. V
+6,2/25/2008,Placebo,58,78,Dr. O
+6,8/29/2008,Placebo,75,60,Dr. O
+6,8/29/2008,Placebo,75,60,Dr. O
