@@ -3,12 +3,10 @@ Associated with colab Notebook **Forecast liquor sales using time series
 with seasonality**.\n
 Notebook uses pandas, numpy, matplotlib, statsmodels. This is a link to one of the videos: 
 
-Module 4:\n
-Part 1: https://drive.google.com/file/d/1tXh08feae0djZAtqlf02yQwC7laO00q5/view?usp=sharing
+Module 4: \n
+Part 1: https://drive.google.com/file/d/1tXh08feae0djZAtqlf02yQwC7laO00q5/view?usp=sharing \n
 
-Part 2: https://drive.google.com/file/d/1S7lr6CC9bR9t3g2TUdRdqIICjpNDc-MR/view?usp=sharing
+Part 2: https://drive.google.com/file/d/1S7lr6CC9bR9t3g2TUdRdqIICjpNDc-MR/view?usp=sharing \n
 
-
-Transition to Module 4. Students have worked hard and deserve an entertaining and instructive break.
-
+Transition to Module 4. Students have worked hard and deserve an entertaining and instructive break. \n
 https://drive.google.com/file/d/1moEg5dgwxVoVKbXdis3NaJ_I1-Mto3cN/view?usp=sharing
