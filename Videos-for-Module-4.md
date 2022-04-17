@@ -1,4 +1,4 @@
-## Module 4 Instruction Videos associated with colab Notebook **Forecast liquor sales using time series
+# Module 4 Instruction Videos # associated with colab Notebook **Forecast liquor sales using time series
 with seasonality**.
 
 Notebook uses pandas, numpy, matplotlib, statsmodels. This is a link to one of the videos: 
