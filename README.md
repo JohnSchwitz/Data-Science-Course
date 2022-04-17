@@ -1,5 +1,5 @@
 # Analyst Course for Data Scientists
-Course Objectives, Datasets and Links, Exercises and Projects and Resume Objectives. Module 4 Instruction Videos are included.
+## Course Objectives, Datasets and Links, Exercises and Projects and Resume Objectives. Module 4 Instruction Videos are included.
 
 Juypter Colab Notebooks
   1) Just enough Python
