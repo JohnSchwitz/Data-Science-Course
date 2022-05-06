@@ -7,13 +7,13 @@ with seasonality**. This Notebook uses pandas, numpy, matplotlib, statsmodels. T
 
 Module 4:
 
-Part 1: https://drive.google.com/file/d/1tXh08feae0djZAtqlf02yQwC7laO00q5/view?usp=sharing 
+Part 1: https://vimeo.com/707122836
 
-Part 2: https://drive.google.com/file/d/1S7lr6CC9bR9t3g2TUdRdqIICjpNDc-MR/view?usp=sharing 
+Part 2: https://vimeo.com/707129111
 
 Transition to Module 4. Students have worked hard and deserve an entertaining and instructive break.
 
-https://drive.google.com/file/d/1moEg5dgwxVoVKbXdis3NaJ_I1-Mto3cN/view?usp=sharing
+https://vimeo.com/707144221
 
 Juypter Colab Notebooks
   1) Just enough Python
