@@ -15,4 +15,4 @@ Transition to Module 4. Students have worked hard and deserve an entertaining an
 
 https://vimeo.com/707144221
 
-A description of the 5 Course Modules is attached. 
+A description of the 5 Course Modules, exercises and links to colabs is in the Folder: Analyst Course for Data Scientists. 
